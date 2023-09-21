@@ -1,0 +1,27 @@
+.nav-item {
+    border-radius: 24px;
+    border: 2px solid #0A2640;
+    display: flex;
+    padding: 8px 40px;
+    align-items: flex-start;
+    gap: 8px;
+    width: 128px;
+    height: 40px;
+}
+h1 {
+    color: #0A2640;
+    text-align: center;
+    font-family: Manrope;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 84px; 
+}
+.section p {
+    color: #0A2640;
+    font-family: Open Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; 
+}
