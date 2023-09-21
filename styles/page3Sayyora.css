@@ -25,3 +25,78 @@ h1 {
     font-weight: 400;
     line-height: 32px; 
 }
+
+.section1 h6 {
+    color: var(--Dark-Blue, #0A2640);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px; 
+}
+.section1 span {
+    color: var(--Gray, #777);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; 
+}
+.section1 h2 {
+    color: #000;
+    font-family: Manrope;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 72px; 
+}
+.section1 p{
+    color: #000;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; 
+}
+.section1-image {
+    width: 45%;
+    
+}
+.hr {
+    width: 80%;
+    height: 1px;
+    flex-shrink: 0;
+    background: var(--Dark-Blue, #0A2640);
+}
+/* section2 start */
+.section2 h3 {
+    color: #000;
+    font-family: Manrope;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 72px; 
+}
+.section2-1box {
+border: 1px solid black;
+height: 209px;
+width: 30%;
+}
+.section2-1img {
+width: 100%;
+
+}
+/* section2 end */
+
+
+/* section2 start */
+/* section2 end */
+
+
+/* section2 start */
+/* section2 end */
+
+
+
+/* section2 start */
+/* section2 end */
