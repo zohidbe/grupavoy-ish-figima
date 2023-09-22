@@ -135,7 +135,7 @@ h1 {
 .section3 {
     background-color: darkblue;
     width: 1200px;
-   
+    
     flex-shrink: 0;
     border-radius: 12px;
     background: var(--Dark-Blue, #0A2640);
@@ -152,6 +152,8 @@ h1 {
     font-style: normal;
     font-weight: 400;
     line-height: 72px; 
+    margin-top: 3rem;
+    margin-bottom: -20px;
 }
 .section3 input {
     border-radius: 240px;
@@ -160,6 +162,20 @@ h1 {
     width: 370px;
     height: 56px;
     flex-shrink: 0;
+    padding-left: 15px;
+}
+.button1 {
+    padding: 10px 36px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 56px;
+    border: 2px solid var(--Dark-Blue, #0A2640);
+    width: 250px;
+    height: 60px;
+    margin-left: 10%;
+    margin-bottom: 50px;
+    margin-top: 3rem;
+    
 }
 /* section3 end */
 
