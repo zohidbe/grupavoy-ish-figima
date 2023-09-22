@@ -1,3 +1,10 @@
+
+/* header start */
+.nav {
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
 .nav-item {
     border-radius: 24px;
     border: 2px solid #0A2640;
@@ -8,6 +15,7 @@
     width: 128px;
     height: 40px;
 }
+/* header end  */
 h1 {
     color: #0A2640;
     text-align: center;
@@ -26,6 +34,7 @@ h1 {
     line-height: 32px; 
 }
 
+/* section1 start */
 .section1 h6 {
     color: var(--Dark-Blue, #0A2640);
     font-family: Open Sans;
@@ -68,6 +77,7 @@ h1 {
     flex-shrink: 0;
     background: var(--Dark-Blue, #0A2640);
 }
+/* aection1 end */
 /* section2 start */
 .section2 h3 {
     color: #000;
