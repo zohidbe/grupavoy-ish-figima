@@ -39,7 +39,7 @@
   /* utils */
   
   .container {
-    width: 1200px;
+    width: 1400px;
     margin: 0 auto;
   }
   
@@ -48,7 +48,9 @@
     padding-inline: 3rem;
     padding-block: 2rem;
   }
-  
+  .flex-wrap {
+    flex-wrap: wrap;
+  }
   .flex {
     display: flex;
   }
@@ -145,6 +147,9 @@
   
   .text-center {
     text-align: center;
+  }
+  .text-left {
+    text-align:left
   }
   
   .text-sm {
