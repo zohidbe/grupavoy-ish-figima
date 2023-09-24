@@ -1,0 +1,137 @@
+.header-third{
+    padding-inline: 200px;
+    padding-block: 100px;
+}
+.header-third-first{
+    margin-inline: 100px;
+    margin-bottom: 52px;
+}
+
+.header-third-first p{
+    margin-bottom: 20px;
+    color: var(--Gray, #777);
+
+/* Paragraphs/Text S */
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.header-third-first h2{
+    margin-block: 20px;
+    color: #000;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: 72px; /* 150% */
+}
+
+.header-four{
+    padding-block: 120px;
+    padding-inline: 300px;
+    background: #0A2640;
+    height: 1166px;
+}
+
+.header-four p{
+    color: var(--Light-Grey, #F1F1F1);
+
+/* Paragraphs/Text S */
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 160% */
+}
+.header-four .p2{
+    margin-top: 20px;
+    margin-bottom:72px;
+
+}
+.header-four h2{
+    margin-top:12px;
+    color: #FFF;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: 72px; 
+}
+
+.header-four-second-img{
+    background: url(../photos/small1.png);
+    width: 150px;
+height: 151px;
+flex-shrink: 0;
+}
+.header-four-second  .p2{
+    width: 602px;
+height: 71px;
+}
+
+.header-four-third-img{
+    background: url(../photos/small2.png);
+    width: 150px;
+height: 151px;
+flex-shrink: 0;
+}
+.header-four-four-img{
+    background: url(../photos/small3.png);
+    width: 150px;
+height: 151px;
+flex-shrink: 0;
+}
+.header-four-third  .p2{
+    width: 602px;
+height: 71px;
+}
+.header-four-four  .p2{
+    width: 602px;
+height: 71px;
+}
+.header-four .p1{
+    color: #FFF;
+
+
+font-family: Manrope;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: 48px; 
+}
+
+.header-four .p2{
+    color: var(--Light-Grey, #F1F1F1);
+
+
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+}
+.header-fifth-div{
+    margin-block:124px;
+    margin-inline: 100px;
+    border-radius: 12px;
+background: var(--Dark-Blue, #0A2640);
+width: 1200px;
+height: 391px;
+flex-shrink: 0;
+
+}
+.header-fifth-div h1{
+    color: #FFF;
+text-align: center;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: 72px;
+height: 139px;
+padding-inline: 242px;
+margin-top: 72px;
+
+}
