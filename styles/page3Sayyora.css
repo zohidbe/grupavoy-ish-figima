@@ -12,10 +12,17 @@
     padding: 8px 40px;
     align-items: flex-start;
     gap: 8px;
-    width: 128px;
+    width: 129px;
     height: 40px;
 }
 /* header end  */
+
+.container {
+margin: auto;
+width: 1400px;
+background: #FFF;
+}
+
 h1 {
     color: #0A2640;
     text-align: center;
@@ -99,6 +106,15 @@ h1 {
 }
 /* section2 end */
 
+.li-links{
+width: 1200px;
+height: 42px;
+padding-right: 0px;
+align-items: flex-start;
+flex-shrink: 0;
+background-color: #000;
+}
+
 /* section3 start */
 .gray {
     color: var(--Gray, #777);
@@ -177,13 +193,105 @@ h1 {
     margin-top: 3rem;
     
 }
-/* section3 end */
 
+.heading-1 {
+display: flex;
+width: 888px;
+height: 183px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 12px;
+flex-shrink: 0;
+/* background-color: #000000; */
+margin: auto;
+}
 
-/* section2 start */
-/* section2 end */
+.heading-1 h4 {
+ color: var(--Dark-Blue, #0A2640);
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
 
+.heading-1 h2 {
+ width: 842px;
+color: var(--Dark-Blue, #0A2640);
+text-align: center;
+font-family: Manrope;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: 84px;
+}
 
+.left  {
+width: 550px;
+height: 386px;
+border-radius: 24px;
+background: url(/images/img.png),  no-repeat;
+}
 
-/* section2 start */
-/* section2 end */
+.heading-2 {
+ width: 1200px;
+height: 386px;
+flex-shrink: 0;
+/* background-color: #65E4A3; */
+margin: auto;
+margin-top: 40px;
+}
+
+.right h5  {
+    color: var(--Dark-Blue, #0A2640);
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    margin-top: 80px;
+}
+
+.right span{
+color: var(--Gray, #777);
+font-family: Open Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+}
+
+.right {
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+gap: 12px;
+}
+
+.right strong {
+  width: 543px;
+ height: 145px;
+color: #000;
+font-family: Manrope;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: 72px;
+}
+
+.nav-itemmm{
+  display: inline-flex;
+padding: 16px 56px;
+justify-content: center;
+align-items: center;
+gap: 8px;
+border-radius: 56px;
+border: 2px solid var(--Dark-Blue, #0A2640);
+margin-left: 566px;
+margin-top: 96px;
+}
+
+.section3{
+    margin-top: 124px;
+}
