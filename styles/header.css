@@ -16,7 +16,7 @@ flex-shrink: 0;
 margin: auto;
 }
 
-.ul-link {
+.ul-link  {
 list-style-type: none;
 gap: 40px;
 display: flex;
@@ -29,14 +29,14 @@ font-weight: 600;
 line-height: 28px; 
 }
 
-.ul-link button {
+.ul-link button  {
  color: var(--Dark-Blue, #0A2640);
 font-family: Open Sans;
 font-size: 16px;
 font-style: normal;
 font-weight: 700;
 line-height: 24px;
-width: 133px;
+width: 143px;
 display: flex;
 padding: 8px 40px;
 gap: 8px;

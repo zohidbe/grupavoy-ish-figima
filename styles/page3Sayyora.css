@@ -12,7 +12,7 @@
     padding: 8px 40px;
     align-items: flex-start;
     gap: 8px;
-    width: 129px;
+    /* width: 143px; */
     height: 40px;
 }
 /* header end  */
@@ -151,7 +151,6 @@ background-color: #000;
 .section3 {
     background-color: darkblue;
     width: 1400px;
-    
     flex-shrink: 0;
     border-radius: 12px;
     background: var(--Dark-Blue, #0A2640);
@@ -203,7 +202,6 @@ justify-content: center;
 align-items: center;
 gap: 12px;
 flex-shrink: 0;
-/* background-color: #000000; */
 margin: auto;
 }
 
