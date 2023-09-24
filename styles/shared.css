@@ -151,7 +151,9 @@
   .text-left {
     text-align:left
   }
-  
+  .flex-start {
+    align-items: flex-start;
+  }
   .text-sm {
     font-size: 16px;
   }
