@@ -77,6 +77,7 @@ header {
   column-gap: 50px;
   row-gap: 40px;
   transform: translateY(-110px);
+  justify-content: center;
 }
 
 .story-img1 {
